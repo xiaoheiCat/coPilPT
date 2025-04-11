@@ -28,7 +28,7 @@ cd coPilPT
 ```
 3. 使用 Docker Compose 启动它
 ```bash
-docker compose up -d
+docker compose up -d --build
 ```
 > 如果你没有安装 Docker，请先安装 Docker。以下是在 Ubuntu / Debian 中的示例：
 ```
