@@ -1,5 +1,5 @@
 # coPilPT
-coPilPT 是由 AI 驱动的 PPT 构思与创建秘书
+coPilPT 是由 AI 驱动的 PPT 构思与创建秘书。
 
 ---
 
