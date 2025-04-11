@@ -1,5 +1,5 @@
 # coPilPT
-coPilPT is an AI powered secretary for slide ideation and creation.
+coPilPT is an AI powered secretary for slide ideation and creation. [简体中文](README.zh.md)
 
 ---
 
